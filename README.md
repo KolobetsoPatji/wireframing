@@ -43,6 +43,23 @@ This focuses on how interactive elements behave or respond.
 - **Example:** Clicking a button opens a form, or hovering over a menu shows a dropdown.
 - **Contribution:** It helps visualize user interaction and flow before coding begins.
 
+## Types of Wireframing
 
+Wireframes are used to plan and visualize a website or app layout before creating the final design. They come in **two main types**: low-fidelity and high---fidelity.
+
+### **1. Low--Fidelity Wireframes**
+Low-fidelity wireframes are **simple and basic sketches** that focus on the layout and placement of elements without details like colors, images, or fonts.
+- **When used:** At the beginning of the design process to quickly brainstorm ideas and plan the structure.
+- **Example:** A hand-drawn sketch showing where the header, navigation, main content, and buttons will go.
+
+### **2. High-Fidelity Wireframes**
+High-fidelity wireframes are **detailed and closer to the final design**, often including realistic spacing, typography, colors, images, and interactive elements.
+- **When used:** Later in the design process, to present a clear view of the final design to stakeholders or developers.
+- **Example:** A digital wireframe created in tools like Figma, Adobe XD, or Sketch, showing buttons, images, and text placement accurately.
+
+## Type of Wireframe Used
+
+For this project, the wireframe shown is a **high--fidelity wireframe**.
+- **Reason:** It detailed and shows realistic elements such as layout, spacing, and design features, giving a close representation of the final product.
 
 

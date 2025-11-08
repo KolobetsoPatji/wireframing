@@ -62,4 +62,29 @@ High-fidelity wireframes are **detailed and closer to the final design**, often 
 For this project, the wireframe shown is a **high--fidelity wireframe**.
 - **Reason:** It detailed and shows realistic elements such as layout, spacing, and design features, giving a close representation of the final product.
 
+## Wireframing Tools
+
+Wireframing tools help designers and developers create visual blueprints of digital interfaces before actual development begins. These tools make it easier to plan layouts, test ideas, and collaborate effectively.
+
+### **Popular Wireframing Tools 
+### **1. Figma**
+Figma is a cloud-based design and prototyping tool widely used for UI/UX design. It allows multiple users to work on the same file in real time, making it ideal for collaboration.
+
+### Key Features:
+- Browser-based and works across all platforms
+- Real-time collaboration
+- Built-in components and design systems
+- Easy prototyping and feedback integration
+
+### Why Figma is Recommended for Wireframing:
+Figma simplifies the process of creating both lowfidelity and high-fidelity wireframes. Its drag-and-drop interface, shared libraries, and real-time editing features make it an excellent tool for beginners and professionals alike.
+
+### **2.Adobe XD**
+A powerful tool by Adobe for designing and prototyping user expperiences for web and mobile apps. It integrates well with other Adobe Creative Cloud apps.
+
+### **3.Balsmiq**
+A beginner--friendly wireframing tool known for its sketch-like interface that helps users focus on structure rather than design details.
+
+### **4.Sketch**
+A macOS-based design tool great for creating wireframes, UI designs, and prototypes. It's especially popular among professional UI/UX designers.
 

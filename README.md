@@ -47,7 +47,7 @@ This focuses on how interactive elements behave or respond.
 
 Wireframes are used to plan and visualize a website or app layout before creating the final design. They come in **two main types**: low-fidelity and high---fidelity.
 
-### **1. Low--Fidelity Wireframes**
+### **1. Low-Fidelity Wireframes**
 Low-fidelity wireframes are **simple and basic sketches** that focus on the layout and placement of elements without details like colors, images, or fonts.
 - **When used:** At the beginning of the design process to quickly brainstorm ideas and plan the structure.
 - **Example:** A hand-drawn sketch showing where the header, navigation, main content, and buttons will go.
@@ -59,7 +59,7 @@ High-fidelity wireframes are **detailed and closer to the final design**, often 
 
 ## Type of Wireframe Used
 
-For this project, the wireframe shown is a **high--fidelity wireframe**.
+For this project, the wireframe shown is a **high-fidelity wireframe**.
 - **Reason:** It detailed and shows realistic elements such as layout, spacing, and design features, giving a close representation of the final product.
 
 ## Wireframing Tools
@@ -83,7 +83,7 @@ Figma simplifies the process of creating both lowfidelity and high-fidelity wire
 A powerful tool by Adobe for designing and prototyping user expperiences for web and mobile apps. It integrates well with other Adobe Creative Cloud apps.
 
 ### **3.Balsmiq**
-A beginner--friendly wireframing tool known for its sketch-like interface that helps users focus on structure rather than design details.
+A beginner-friendly wireframing tool known for its sketch-like interface that helps users focus on structure rather than design details.
 
 ### **4.Sketch**
 A macOS-based design tool great for creating wireframes, UI designs, and prototypes. It's especially popular among professional UI/UX designers.
@@ -95,16 +95,43 @@ Wireframing plays a crucial role in software development by serving as a visual 
 ### Key Benefits
 
 - **Guides the Design Process**
+
 Wireframes act as a blueprint for the design phase. They help teams focus on layout, functionality, and user flow before moving into visual details like colors and typography. For example, a wireframe can help identify where navigation menus, buttons, or forms will be placed, ensuring that the design supports usability and user goals.
+
 - **Improves Communication and Collaboration**
-Wireframes create a shared understanding among develoers, designers, and stakeholders. They make abstract ideas, visible, allowing teams to discuss structure and functionality early on. This reduces misunderstandings and keeps everyone aligned on pproject goals.
+
+Wireframes create a shared understanding among developers, designers, and stakeholders. They make abstract ideas, visible, allowing teams to discuss structure and functionality early on. This reduces misunderstandings and keeps everyone aligned on pproject goals.
 Example: A designer can use Figma to share a wireframe with developers in real time. Team members can then comment directly on the layout, making collaboration faster and clearer.
 
 - **Saves Time and Reduces Rework**
+
 By identifying potential design or usability issues early, wireframes prevent costly changes later in the development process. Adjustments to a wireframe are much easier and faster than editing coded designs.
 
 - **Supports User-Centered Design**
-  Wireframes help teams visualize how users will interact with an application. They allow for early user feedback on functionality and navigation flow before development begins.
+
+Wireframes help teams visualize how users will interact with an application. They allow for early user feedback on functionality and navigation flow before development begins.
 
 - **Clarifies Project Scope**
-  Wireframes set clear expectations by showing exactly what needs to be built. This helps avoid feature creep and keeps the project focused on core objectives.
+
+ Wireframes set clear expectations by showing exactly what needs to be built. This helps avoid feature creep and keeps the project focused on core objectives.
+
+  ## Wireframng in Practice
+  Wreframing is more than just a design step- it's a problem-solving process that helps teams identify and fix usability issues before development begins. Here's an example of how wirefframing made a real impact in a software project:
+
+  ### Real-World Scenario
+
+  A team was deevloping a **banking mobile aplication** that allowed users to transfer money, check balances, and manage their accounts. During the wireframing stage, designers noticed that the "Send Money" feature required users to navigate through multiple screens before confirming a transaction. This made the process unnecessarily long and confusing.
+  By reviewing the wireframes, the design and development teams realized that users might abandon the process if it felt too complicated. Before any coding began, the team simplified the flow by:
+  - Reducing the number of steps from four to two
+  - Adding a clear "Confirm Transfer" button on the same page
+  - Including a progress indicator to show users where they were in the process
+ 
+  These changes were made directly in the wireframes using **Figma**, allowing the team to visualize the improved user flow instantly.
+
+  ### Outcome
+  After implementing these revisions, user testing on the final product showed a **30% faster completion rate** for money transfers and **higher overall user satisfaction**. The redesign not only improved usability but also reduced potential development rework.
+
+  ### Conclusion
+  This example highlights how wireframing serves as a critical step in software development. It helps identify usability issues early, encourages collaboration between designers and developers, and ensures that the final product delivers a smooth and user-friendly experience.
+
+  Wireframing ultimately acts as the foundation for creating intuitive and efficient digital pproducts.
